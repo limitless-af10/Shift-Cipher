@@ -14,7 +14,7 @@ The Decryption folder contain only the "Decryption Program.cpp" initially but af
 "Assignment 1_Cipher.txt" aswell. When you run the decryption program it takes input from the cipher file and outputs plain text to
 "Assignment 1_plaintext_out.txt" in the root director of decryption program.
 
-ps: Altough the assignment asked to allow only positive values for k, we made our code compatible with negative vlaues of k aswell
+ps: Altough the assignment asked to allow only positive values for k, we made our code compatible with negative values of k aswell
 cause we are alpha programmers ;c ...
 
 
